@@ -55,9 +55,9 @@ The **Neural Network** model was selected as the best model for production due t
 
 | Model | AUC Score | F1-Score | Observation |
 | :--- | :---: | :---: | :--- |
-| **Artificial Neural Network (ANN)** | **0.9423** | **0.6305** | **Best overall and operational performance.** |
-| Random Forest | 0.9357 | 0.6143 | Solid baseline. |
-| Stacking Ensemble | 0.9342 | 0.5756 | Too conservative (many false negatives). |
+| **Artificial Neural Network (ANN)** | **0.9406** | **0.6285** | **Best overall and operational performance.** |
+| Random Forest | 0.9359 | 0.6137 | Solid baseline. |
+| Stacking Ensemble | 0.9346 | 0.5799 | Too conservative (many false negatives). |
 
 ### Business Impact (Confusion Matrix)
 The Neural Network significantly reduced **False Negatives** (interested customers that the model ignored), capturing **41% more sales opportunities** compared to the Stacking model.
@@ -73,13 +73,13 @@ The Neural Network significantly reduced **False Negatives** (interested custome
 
 1.  Clone the repository:
 ```bash
-    git clone [https://github.com/Karenop4/prediccion-de-aceptacion-de-productos-bancarios.git](https://github.com/Karenop4/prediccion-de-aceptacion-de-productos-bancarios.git)
+    git clone [https://github.com/Karenop4/process-for-predicting-acceptance-of-banking-products.git](https://github.com/Karenop4/process-for-predicting-acceptance-of-banking-products.git)
     ```
 2.  Install the dependencies:
 ```bash
 pip install pandas numpy scikit-learn tensorflow shap imbalanced-learn matplotlib seaborn
 ```
-3.  Run the `Interciclo.ipynb` notebook in Jupyter or Google Colab.
+3.  Run the `predicting_acceptance_of_banking_products_.ipynb` notebook in Jupyter or Google Colab.
 
 ## 📄 License
 This project is for educational and academic purposes.
