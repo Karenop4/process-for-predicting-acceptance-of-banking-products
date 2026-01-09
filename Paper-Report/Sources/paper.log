@@ -1,0 +1,1004 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.1.8)  8 JAN 2026 23:47
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./paper.tex
+(paper.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+(llncs.cls
+Document Class: llncs 2022/09/05 v2.22 
+ LaTeX document class for Lecture Notes in Computer Science
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
+\c@tracingmulticols=\count283
+\mult@box=\box53
+\multicol@leftmargin=\dimen149
+\c@unbalance=\count284
+\c@collectmore=\count285
+\doublecol@number=\count286
+\multicoltolerance=\count287
+\multicolpretolerance=\count288
+\full@width=\dimen150
+\page@free=\dimen151
+\premulticols=\dimen152
+\postmulticols=\dimen153
+\multicolsep=\skip51
+\multicolbaselineskip=\skip52
+\partial@page=\box54
+\last@line=\box55
+\mc@boxedresult=\box56
+\maxbalancingoverflow=\dimen154
+\mult@rightbox=\box57
+\mult@grightbox=\box58
+\mult@firstbox=\box59
+\mult@gfirstbox=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\c@minrows=\count289
+\c@columnbadness=\count290
+\c@finalcolumnbadness=\count291
+\last@try=\dimen155
+\multicolovershoot=\dimen156
+\multicolundershoot=\dimen157
+\mult@nat@firstbox=\box97
+\colbreak@box=\box98
+\mc@col@check@num=\count292
+\g__mc_curr_col_int=\count293
+)
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/oberdiek\aliascnt.sty
+Package: aliascnt 2018/09/07 v1.5 Alias counters (HO)
+)
+\c@chapter=\count294
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 362.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 363.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 364.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 365.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 366.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 367.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 368.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 369.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 370.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 371.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 372.
+LaTeX Info: Redefining \vec on input line 377.
+\tocchpnum=\dimen158
+\tocsecnum=\dimen159
+\tocsectotal=\dimen160
+\tocsubsecnum=\dimen161
+\tocsubsectotal=\dimen162
+\tocsubsubsecnum=\dimen163
+\tocsubsubsectotal=\dimen164
+\tocparanum=\dimen165
+\tocparatotal=\dimen166
+\tocsubparanum=\dimen167
+\@tempcntc=\count295
+\fnindent=\dimen168
+\c@@inst=\count296
+\c@@auth=\count297
+\c@auco=\count298
+\instindent=\dimen169
+\authrun=\box99
+\authorrunning=\toks17
+\tocauthor=\toks18
+\titrun=\box100
+\titlerunning=\toks19
+\toctitle=\toks20
+\c@theorem=\count299
+\c@case=\count300
+\c@conjecture=\count301
+\c@corollary=\count302
+\c@definition=\count303
+\c@example=\count304
+\c@exercise=\count305
+\c@lemma=\count306
+\c@note=\count307
+\c@problem=\count308
+\c@property=\count309
+\c@proposition=\count310
+\c@question=\count311
+\c@solution=\count312
+\c@remark=\count313
+\headlineindent=\dimen170
+) (C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen171
+\Gin@req@width=\dimen172
+) (C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/tools\bm.sty
+Package: bm 2025/10/21 v1.2g Bold Symbol Support (DPC/FMi)
+\symboldoperators=\mathgroup4
+\symboldletters=\mathgroup5
+\symboldsymbols=\mathgroup6
+Package bm Info: No bold for \OMX/cmex/m/n, using \pmb.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 149.
+)
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen173
+\captionmargin=\dimen174
+\caption@leftmargin=\dimen175
+\caption@rightmargin=\dimen176
+\caption@width=\dimen177
+\caption@indent=\dimen178
+\caption@parindent=\dimen179
+\caption@hangindent=\dimen180
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->\small \vskip \abovecap
+tionskip \sbox \@tempboxa {{\bfseries #1.} #2}\ifdim \wd \@tempboxa >\hsize {\b
+fseries #1.} #2\par \else \global \@minipagefalse \hb@xt@ \hsize {\hfil \box \@
+tempboxa \hfil }\fi \vskip \belowcaptionskip  on input line 1175.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count314
+\c@continuedfloat=\count315
+)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count316
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count317
+)
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip53
+\multirow@cntb=\count318
+\multirow@dima=\skip54
+\bigstrutjot=\dimen181
+)
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/cite\cite.sty
+LaTeX Info: Redefining \cite on input line 302.
+LaTeX Info: Redefining \nocite on input line 332.
+Package: cite 2015/02/27  v 5.5
+)
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/breqn\breqn.sty
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2025-12-24 L3 programming layer (loader) 
+
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count319
+))
+Package: breqn 2021/10/28 v0.98l Breaking equations
+
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip55
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen182
+))
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+LaTeX Info: Redefining \boldsymbol on input line 28.
+\pmbraise@=\dimen183
+)
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count320
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count321
+\leftroot@=\count322
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count323
+\DOTSCASE@=\count324
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box101
+\strutbox@=\box102
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen184
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+
+
+Package amsmath Warning: Unable to redefine math accent \vec.
+
+\macc@depth=\count325
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count326
+\dotsspace@=\muskip17
+\c@parentequation=\count327
+\dspbrk@lvl=\count328
+\tag@help=\toks23
+\row@=\count329
+\column@=\count330
+\maxfields@=\count331
+\andhelp@=\toks24
+\eqnshift@=\dimen185
+\alignsep@=\dimen186
+\tagshift@=\dimen187
+\tagwidth@=\dimen188
+\totwidth@=\dimen189
+\lineht@=\dimen190
+\@envbody=\toks25
+\multlinegap=\skip56
+\multlinetaggap=\skip57
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+) (C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/breqn\flexisym.sty
+Package: flexisym 2021/10/28 v0.98l Make math characters macros
+LaTeX Info: Redefining \textprime on input line 299.
+LaTeX Info: Redefining \not on input line 357.
+
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/breqn\cmbase.sym
+File: cmbase.sym 2007/12/19 v0.92
+LaTeX Info: Redefining \hbar on input line 324.
+LaTeX Info: Redefining \surd on input line 326.
+LaTeX Info: Redefining \angle on input line 334.
+LaTeX Info: Redefining \neq on input line 335.
+LaTeX Info: Redefining \mapsto on input line 336.
+LaTeX Info: Redefining \cong on input line 337.
+LaTeX Info: Redefining \notin on input line 340.
+LaTeX Info: Redefining \rightleftharpoons on input line 341.
+LaTeX Info: Redefining \doteq on input line 342.
+LaTeX Info: Redefining \hookrightarrow on input line 343.
+LaTeX Info: Redefining \hookleftarrow on input line 344.
+LaTeX Info: Redefining \bowtie on input line 345.
+LaTeX Info: Redefining \models on input line 346.
+LaTeX Info: Redefining \Longrightarrow on input line 347.
+LaTeX Info: Redefining \longrightarrow on input line 348.
+LaTeX Info: Redefining \Longleftarrow on input line 349.
+LaTeX Info: Redefining \longleftarrow on input line 350.
+LaTeX Info: Redefining \longmapsto on input line 351.
+LaTeX Info: Redefining \longleftrightarrow on input line 352.
+LaTeX Info: Redefining \Longleftrightarrow on input line 353.
+LaTeX Info: Redefining \cdots on input line 357.
+LaTeX Info: Redefining \vdots on input line 360.
+LaTeX Info: Redefining \ddots on input line 365.
+)
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/breqn\mathstyle.sty
+Package: mathstyle 2021/10/28 v0.98l Tracking mathstyle implicitly
+LaTeX Info: Redefining \displaystyle on input line 95.
+LaTeX Info: Redefining \textstyle on input line 97.
+LaTeX Info: Redefining \scriptstyle on input line 99.
+LaTeX Info: Redefining \scriptscriptstyle on input line 101.
+LaTeX Info: Redefining \genfrac on input line 149.
+))
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count332
+\calc@Bcount=\count333
+\calc@Adimen=\dimen191
+\calc@Bdimen=\dimen192
+\calc@Askip=\skip58
+\calc@Bskip=\skip59
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count334
+\calc@Cskip=\skip60
+)
+\inf@bad=\count335
+\maxint=\count336
+\listwidth=\dimen193
+\eqnumsep=\dimen194
+\eqmargin=\dimen195
+\eqlinespacing=\skip61
+\eqlineskip=\skip62
+\eqlineskiplimit=\dimen196
+\eqbinoffset=\muskip18
+\eqdelimoffset=\muskip19
+\eqindentstep=\dimen197
+\eqstyle=\toks27
+\eqbreakdepth=\count337
+\eqinterlinepenalty=\count338
+\intereqpenalty=\count339
+\intereqskip=\skip63
+\prerelpenalty=\count340
+\prebinoppenalty=\count341
+\Dmedmuskip=\muskip20
+\Dthickmuskip=\muskip21
+\eqleftskip=\skip64
+\eqrightskip=\skip65
+\eq@vspan=\skip66
+\eq@binoffset=\muskip22
+\EQ@box=\box103
+\EQ@copy=\box104
+\EQ@numbox=\box105
+\eq@wdNum=\dimen198
+\GRP@numbox=\box106
+\grp@wdNum=\dimen199
+\eq@lines=\count342
+\eq@curline=\count343
+\eq@badness=\count344
+\EQ@vims=\count345
+\eq@dp=\dimen256
+\eq@wdL=\dimen257
+\eq@wdT=\dimen258
+\eq@wdMin=\dimen259
+\grp@wdL=\dimen260
+\grp@wdR=\dimen261
+\grp@wdT=\dimen262
+\eq@wdRmax=\dimen263
+\eq@firstht=\dimen264
+\eq@wdCond=\dimen265
+\eq@indentstep=\dimen266
+\eq@linewidth=\dimen267
+\grp@linewidth=\dimen268
+\eq@hshift=\dimen269
+\eq@given@sidespace=\dimen270
+\mathindent=\dimen271
+\eq@final@linecount=\count346
+\eq@wdR=\dimen272
+\EQ@continue=\toks28
+\lr@level=\count347
+\GRP@queue=\toks29
+\GRP@box=\box107
+\GRP@wholebox=\box108
+\darraycolsep=\skip67
+\cur@row=\count348
+\cur@col=\count349
+\conditionsep=\skip68
+)
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup7
+\symAMSb=\mathgroup8
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+)
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithmic.
+sty
+Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
+ (C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+\c@ALC@unique=\count350
+\c@ALC@line=\count351
+\c@ALC@rem=\count352
+\c@ALC@depth=\count353
+\ALC@tlm=\skip69
+\algorithmicindent=\skip70
+)
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul.sty
+Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/generic/soul\soul-ori.sty
+Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
+\SOUL@word=\toks30
+\SOUL@lasttoken=\toks31
+\SOUL@syllable=\toks32
+\SOUL@cmds=\toks33
+\SOUL@buffer=\toks34
+\SOUL@token=\toks35
+\SOUL@syllgoal=\dimen273
+\SOUL@syllwidth=\dimen274
+\SOUL@charkern=\dimen275
+\SOUL@hyphkern=\dimen276
+\SOUL@dimen=\dimen277
+\SOUL@dimeni=\dimen278
+\SOUL@minus=\count354
+\SOUL@comma=\count355
+\SOUL@apo=\count356
+\SOUL@grave=\count357
+\SOUL@spaceskip=\skip71
+\SOUL@ttwidth=\dimen279
+\SOUL@uldp=\dimen280
+\SOUL@ulht=\dimen281
+)
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)))
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count358
+\float@exts=\toks36
+\float@box=\box109
+\@float@everytoks=\toks37
+\@floatcapt=\box110
+)
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen282
+\ar@mcellbox=\box111
+\extrarowheight=\dimen283
+\NC@list=\toks38
+\extratabsurround=\skip72
+\backup@length=\skip73
+\ar@cellbox=\box112
+)
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count359
+\c@Blindtext=\count360
+\c@blind@countparstart=\count361
+\blind@countxx=\count362
+\blindtext@numBlindtext=\count363
+\blind@countyy=\count364
+\c@blindlist=\count365
+\c@blindlistlevel=\count366
+\c@blindlist@level=\count367
+\blind@listitem=\count368
+\c@blind@listcount=\count369
+\c@blind@levelcount=\count370
+\blind@mathformula=\count371
+\blind@Mathformula=\count372
+\c@blind@randomcount=\count373
+\c@blind@randommax=\count374
+\c@blind@pangramcount=\count375
+\c@blind@pangrammax=\count376
+)
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2025/01/14 v1.3e Standard LaTeX Color (DPC)
+
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+)
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/algorithms\algorithm.st
+y
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+\@float@every@algorithm=\toks39
+\c@algorithm=\count377
+)
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf.s
+ty
+Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
+ (C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+)))
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
+
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
+
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count378
+)
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count379
+)
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen284
+\Hy@linkcounter=\count380
+\Hy@pagecounter=\count381
+ (C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count382
+ (C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4195.
+Package hyperref Info: Link nesting OFF on input line 4200.
+Package hyperref Info: Hyper index ON on input line 4203.
+Package hyperref Info: Plain pages OFF on input line 4210.
+Package hyperref Info: Backreferencing OFF on input line 4215.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4462.
+\c@Hy@tempcnt=\count383
+
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip23
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4801.
+\XeTeXLinkMargin=\dimen285
+
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count384
+\Field@Width=\dimen286
+\Fld@charsize=\dimen287
+Package hyperref Info: Hyper figures OFF on input line 6078.
+Package hyperref Info: Link nesting OFF on input line 6083.
+Package hyperref Info: Hyper index ON on input line 6086.
+Package hyperref Info: backreferencing OFF on input line 6093.
+Package hyperref Info: Link coloring OFF on input line 6098.
+Package hyperref Info: Link coloring with OCG OFF on input line 6103.
+Package hyperref Info: PDF/A mode OFF on input line 6108.
+\Hy@abspage=\count385
+\c@Item=\count386
+\c@Hfootnote=\count387
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
+\Fld@listcount=\count388
+\c@bookmark@seq@number=\count389
+
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
+)
+\Hy@SectionHShift=\skip74
+)
+\c@mytempeqncnt=\count390
+ (paper.aux)
+\openout1 = `paper.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count391
+\scratchdimen=\dimen288
+\scratchbox=\box113
+\nofMPsegments=\count392
+\nofMParguments=\count393
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count394
+\MPscratchDim=\dimen289
+\MPnumerator=\count395
+\makeMPintoPDFobject=\count396
+\everyMPtoPDFconversion=\toks41
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring OFF on input line 49.
+ (paper.out) (paper.out)
+\@outlinefile=\write3
+\openout3 = `paper.out'.
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 73.
+
+
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 73.
+
+
+(C:\Users\karen\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+[1
+
+{C:/Users/karen/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 109--110
+
+ []
+
+
+Overfull \hbox (3.38463pt too wide) in paragraph at lines 121--142
+ [][] 
+ []
+
+<imagenes/metodo_propuesto.png, id=58, 631.35875pt x 352.31625pt>
+File: imagenes/metodo_propuesto.png Graphic file (type png)
+<use imagenes/metodo_propuesto.png>
+Package pdftex.def Info: imagenes/metodo_propuesto.png  used on input line 147.
+
+(pdftex.def)             Requested size: 277.69987pt x 154.96587pt.
+[3]
+Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
+put line 153.
+
+Underfull \hbox (badness 10000) in paragraph at lines 186--187
+
+ []
+
+[4 <./imagenes/metodo_propuesto.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 192--193
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 208--209
+
+ []
+
+
+Overfull \hbox (55.52449pt too wide) in paragraph at lines 216--255
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
+
+ []
+
+[5]
+Package epstopdf Info: Source file: <imagenes/correlation_matrix_lower_triangle
+_with_diagonal.eps>
+(epstopdf)                    date: 2026-01-08 10:29:03
+(epstopdf)                    size: 130960 bytes
+(epstopdf)             Output file: <imagenes/correlation_matrix_lower_triangle
+_with_diagonal-eps-converted-to.pdf>
+(epstopdf)                    date: 2026-01-08 10:31:58
+(epstopdf)                    size: 20446 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/correlation
+_matrix_lower_triangle_with_diagonal-eps-converted-to.pdf imagenes/correlation_
+matrix_lower_triangle_with_diagonal.eps>
+(epstopdf)             \includegraphics on input line 271.
+Package epstopdf Info: Output file is already uptodate.
+<imagenes/correlation_matrix_lower_triangle_with_diagonal-eps-converted-to.pdf,
+ id=114, 1011.78pt x 867.24pt>
+File: imagenes/correlation_matrix_lower_triangle_with_diagonal-eps-converted-to
+.pdf Graphic file (type pdf)
+<use imagenes/correlation_matrix_lower_triangle_with_diagonal-eps-converted-to.
+pdf>
+Package pdftex.def Info: imagenes/correlation_matrix_lower_triangle_with_diagon
+al-eps-converted-to.pdf  used on input line 271.
+(pdftex.def)             Requested size: 347.12354pt x 297.53076pt.
+Package epstopdf Info: Source file: <imagenes/pca_explained_variance.eps>
+(epstopdf)                    date: 2026-01-08 10:29:03
+(epstopdf)                    size: 24252 bytes
+(epstopdf)             Output file: <imagenes/pca_explained_variance-eps-conver
+ted-to.pdf>
+(epstopdf)                    date: 2026-01-08 10:58:07
+(epstopdf)                    size: 15161 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/pca_explain
+ed_variance-eps-converted-to.pdf imagenes/pca_explained_variance.eps>
+(epstopdf)             \includegraphics on input line 278.
+Package epstopdf Info: Output file is already uptodate.
+<imagenes/pca_explained_variance-eps-converted-to.pdf, id=115, 722.7pt x 433.62
+pt>
+File: imagenes/pca_explained_variance-eps-converted-to.pdf Graphic file (type p
+df)
+<use imagenes/pca_explained_variance-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/pca_explained_variance-eps-converted-to.pdf  
+used on input line 278.
+(pdftex.def)             Requested size: 166.61781pt x 99.96869pt.
+Package epstopdf Info: Source file: <imagenes/claustering.eps>
+(epstopdf)                    date: 2026-01-08 10:29:03
+(epstopdf)                    size: 5039109 bytes
+(epstopdf)             Output file: <imagenes/claustering-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2026-01-08 10:32:09
+(epstopdf)                    size: 5317159 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/claustering
+-eps-converted-to.pdf imagenes/claustering.eps>
+(epstopdf)             \includegraphics on input line 285.
+Package epstopdf Info: Output file is already uptodate.
+<imagenes/claustering-eps-converted-to.pdf, id=116, 722.7pt x 578.16pt>
+File: imagenes/claustering-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/claustering-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/claustering-eps-converted-to.pdf  used on inp
+ut line 285.
+(pdftex.def)             Requested size: 166.61781pt x 133.2916pt.
+Package epstopdf Info: Source file: <imagenes/roc_curves.eps>
+(epstopdf)                    date: 2026-01-08 10:29:03
+(epstopdf)                    size: 67670 bytes
+(epstopdf)             Output file: <imagenes/roc_curves-eps-converted-to.pdf>
+(epstopdf)                    date: 2026-01-08 10:32:10
+(epstopdf)                    size: 27264 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/roc_curves-
+eps-converted-to.pdf imagenes/roc_curves.eps>
+(epstopdf)             \includegraphics on input line 305.
+Package epstopdf Info: Output file is already uptodate.
+<imagenes/roc_curves-eps-converted-to.pdf, id=120, 611.28375pt x 506.89375pt>
+File: imagenes/roc_curves-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/roc_curves-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/roc_curves-eps-converted-to.pdf  used on inpu
+t line 305.
+(pdftex.def)             Requested size: 347.12354pt x 287.84187pt.
+Package epstopdf Info: Source file: <imagenes/matrices_confusion.eps>
+(epstopdf)                    date: 2026-01-08 10:29:03
+(epstopdf)                    size: 25489232 bytes
+(epstopdf)             Output file: <imagenes/matrices_confusion-eps-converted-
+to.pdf>
+(epstopdf)                    date: 2026-01-08 10:32:23
+(epstopdf)                    size: 45388 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/matrices_co
+nfusion-eps-converted-to.pdf imagenes/matrices_confusion.eps>
+(epstopdf)             \includegraphics on input line 315.
+Package epstopdf Info: Output file is already uptodate.
+<imagenes/matrices_confusion-eps-converted-to.pdf, id=121, 896.34875pt x 423.58
+25pt>
+File: imagenes/matrices_confusion-eps-converted-to.pdf Graphic file (type pdf)
+<use imagenes/matrices_confusion-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/matrices_confusion-eps-converted-to.pdf  used
+ on input line 315.
+(pdftex.def)             Requested size: 347.12354pt x 164.03311pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 297--322
+
+ []
+
+[6] [7 <./imagenes/correlation_matrix_lower_triangle_with_diagonal-eps-converte
+d-to.pdf> <./imagenes/pca_explained_variance-eps-converted-to.pdf> <./imagenes/
+claustering-eps-converted-to.pdf>]
+Overfull \hbox (43.27858pt too wide) in paragraph at lines 328--347
+ [][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8 <./imagenes/roc_curves-eps-converted-to.pdf> <./imagenes/matrices_confusion
+-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <imagenes/shap_explicability_real_names.eps
+>
+(epstopdf)                    date: 2026-01-08 10:29:03
+(epstopdf)                    size: 1161428 bytes
+(epstopdf)             Output file: <imagenes/shap_explicability_real_names-eps
+-converted-to.pdf>
+(epstopdf)                    date: 2026-01-08 10:32:24
+(epstopdf)                    size: 1147155 bytes
+(epstopdf)             Command: <miktex-epstopdf --outfile=imagenes/shap_explic
+ability_real_names-eps-converted-to.pdf imagenes/shap_explicability_real_names.
+eps>
+(epstopdf)             \includegraphics on input line 351.
+Package epstopdf Info: Output file is already uptodate.
+<imagenes/shap_explicability_real_names-eps-converted-to.pdf, id=389, 569.12625
+pt x 679.53876pt>
+File: imagenes/shap_explicability_real_names-eps-converted-to.pdf Graphic file 
+(type pdf)
+<use imagenes/shap_explicability_real_names-eps-converted-to.pdf>
+Package pdftex.def Info: imagenes/shap_explicability_real_names-eps-converted-t
+o.pdf  used on input line 351.
+(pdftex.def)             Requested size: 277.69987pt x 331.58748pt.
+ [9 <./imagenes/shap_explicability_real_names-eps-converted-to.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 363--364
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 365--366
+
+ []
+
+(paper.bbl [10]) [11] (paper.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2025-12-24>
+ ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package rerunfilecheck Info: File `paper.out' has not changed.
+(rerunfilecheck)             Checksum: 8A855B7F8A2F36B02DFC3CC45044EF39;776.
+ ) 
+Here is how much of TeX's memory you used:
+ 14036 strings out of 467871
+ 220806 string characters out of 5418377
+ 645432 words of memory out of 5000000
+ 42630 multiletter control sequences out of 15000+600000
+ 645623 words of font info for 88 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 71i,14n,86p,1416b,613s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\karen\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecti
+0900.pk> <C:\Users\karen\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi60
+0\ectt0900.pk> <C:\Users\karen\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi600\ecbx1000.pk> <C:\Users\karen\AppData\Local\MiKTeX\fonts/pk/ljfour/jknap
+pen/ec/dpi600\ecti1000.pk> <C:\Users\karen\AppData\Local\MiKTeX\fonts/pk/ljfour
+/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\karen\AppData\Local\MiKTeX\fonts/pk/
+ljfour/jknappen/ec/dpi600\tcrm0900.pk> <C:\Users\karen\AppData\Local\MiKTeX\fon
+ts/pk/ljfour/jknappen/ec/dpi600\ecbx0900.pk> <C:\Users\karen\AppData\Local\MiKT
+eX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0900.pk> <C:\Users\karen\AppData\Loca
+l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\karen\AppDat
+a\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk><C:/Users/karen/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/User
+s/karen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi9.pfb>
+<C:/Users/karen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
+r9.pfb><C:/Users/karen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmsy9.pfb>
+Output written on paper.pdf (11 pages, 6791240 bytes).
+PDF statistics:
+ 899 PDF objects out of 1000 (max. 8388607)
+ 61 named destinations out of 1000 (max. 500000)
+ 44 words of extra memory for PDF output out of 10000 (max. 10000000)
+

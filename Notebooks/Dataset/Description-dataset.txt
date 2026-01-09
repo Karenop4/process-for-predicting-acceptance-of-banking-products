@@ -1,0 +1,44 @@
+CITATION REQUESTE
+Moro, S., Rita, P., & Cortez, P. (2014). Bank Marketing [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5K306.
+
+DATSET OVERVIEW
+The dataset conteins information about direct marketing campaings, specifically phone calls, made it by a portugues bank between 2008 y 2010.
+There are two datasets we use the bank-aditional-full.csv with all examples
+
+Variables:
+
+A. Customer Demographic Data
+
+age: Age in years (Numérico).
+job: Tipe of work (admin, blue-collar, entrepreneur, etc.)
+marital: Marital status (married, single, etc.).
+education: Education level.
+default: Has overdue credit? (yes/no).
+housing: Has a housing loan? (yes/no).
+loan: Has a personal loan? (yes/no).
+
+B. Last Contact and Campaing Data
+Information about how and when the customer was contacted.
+
+contact: Tipe of communication (cellular vs. telephone).
+month / day_of_week: When the call was masde.
+duration: Duration of the call in seconds.
+campaign: Number of times the customer was contacted in this campaign.
+pdays: Days since last contact in a previous campaign (999 means no prior contact).
+previous: Number of prior contacts before this campaign.
+poutcome: Result of the previous campaingns. (failure, nonexistent, success).
+
+C. Socioeconomic Context
+
+emp.var.rate: Employment variation rate. (quarterly indicator).
+cons.price.idx: Consumer price index (CPI, monthly inidcator).
+cons.conf.idx: Consumer confidence index
+euribor3m: 3 month Euribor rate (interbank interest rate). When this rate rises or falls, people tend to save more or less.
+nr.employed: Number of employees (quarterly indicator).
+Target
+
+y: eCustomer subscribed to a term deposit (yes/no).
+Size:
+
+Has 41188 instances and 20 variables; the missing values identified as 'unknown'
+
