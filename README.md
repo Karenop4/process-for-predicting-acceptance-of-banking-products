@@ -1,4 +1,4 @@
-# 🏦 Predicting Acceptance of Banking Products with Deep Learning and XAI
+# 🏦 Predicting Acceptance of Banking Products with Neural Networks and XAI
 
 > **A systematic process using Neural Networks, Ensemble Models, and Explainability Techniques.**
 
